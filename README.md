@@ -1,4 +1,4 @@
-# Homebrew Cask Tap for Audacity Nightly
+# Homebrew Cask Tap for Audacity Nightly [![Build Status](https://travis-ci.org/sscotth/homebrew-audacity-nightly.svg?branch=master)](https://travis-ci.org/sscotth/homebrew-audacity-nightly)
 
 ## [Why?](https://github.com/caskroom/homebrew-versions/pull/3703)
 
